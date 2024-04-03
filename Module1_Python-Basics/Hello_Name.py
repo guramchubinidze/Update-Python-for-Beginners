@@ -1,3 +1,3 @@
 YName = input("Your Name? ")
 
-print(Yname)
+print("Hello, "+YName+"!")
